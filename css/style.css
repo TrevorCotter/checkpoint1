@@ -1,0 +1,63 @@
+body{
+  background-image: url("../img/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
+.title{
+  font-size: 100PX;
+  text-align: center;
+  font-weight: bold;
+  color:white;
+  font-family: sans-serif;
+}
+.under{
+  font-size: 70px;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  font-family: sans-serif;
+}
+.box{
+  height:350px;
+  width: 800px;
+  background:linear-gradient(rgb(46, 48, 48,1),rgb(217, 221, 224,0));
+  margin-top: 150px;
+  float: left;
+  position: relative;
+}
+.tt{
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
+.text{
+  font-size: 30px;
+  color:white;
+  padding: 50px
+}
+
+.box2{
+  height: 350px;
+  width: 670px;
+    background:linear-gradient(rgb(46, 48, 48,1),rgb(217, 221, 224,0));
+  float: right;
+  margin-top: 150px;
+}
+.ttt{
+  color:white;
+  font-size: 50px;
+  text-align: center;
+}
+
+.text2{
+  font-size: 30px;
+  color:white;
+  text-align:center;
+  padding: 60px;
+}
+.img{
+  height: 100px;
+  width: 100px;
+}
