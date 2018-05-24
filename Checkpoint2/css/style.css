@@ -12,25 +12,30 @@ body{
 
 
 .wrapper > div:nth-child(2){
+  /* oakland */
       background:rgb(167, 184, 211);
       padding: 1em;
 }
 .wrapper>div:nth-child(1){
+  /* bills story */
   background:rgb(22, 79, 204);
   color:white;
   padding:1em;
 
 }
 .wrapper>div:nth-child(3){
+  /* eagles */
   background:#004953;
   padding: 1em
 }
 .wrapper>div:nth-child(4){
+  /* browns */
   background: rgb(232, 61,9);
   color: rgb(40, 10, 1);
   padding: 1em;
 }
 .wrapper>div:nth-child(5){
+  /* eagles2 */
   background:#004953;
   padding: 1em
 }
@@ -46,52 +51,63 @@ body{
    font-size: 20px
 }
 .stats>div:nth-child(2){
+  /* TB */
   background:#000080;
   color:white;
   padding:1em
 }
 .stats>div:nth-child(3){
+  /* nick */
   background:#004953;
   padding:1em
 }
 .stats>div:nth-child(4){
+  /* drew */
   background:rgb(122, 86, 2);
   padding:1em
 }
 .stats>div:nth-child(5){
+  /* blake */
   background:#008080;
   color:rgb(122, 86, 2);
   padding:1em;
 }
 .stats>div:nth-child(6){
+  /* case */
   background:rgb(34, 3, 124);
   color:rgb(237, 221, 4);
   padding:1em;
 }
 .stats>div:nth-child(7){
+  /* ben */
   background:black;
   color: rgb(237, 221, 4);
   padding:1em;
 }
 .stats>div:nth-child(9){
+  /* mm */
   background:rgb(196, 1, 14);
   padding:1em;
 }
 .stats>div:nth-child(8){
+  /* mattyice */
   background:rgb(22, 79, 204);
   color:white;
   padding:1em;
 }
 .stats>div:nth-child(10){
+  /* cam */
   background: #0085CA;
   padding:1em;
 }
 .stats>div:nth-child(11){
+  /* sirchokesalot */
   background:#C8102E;
   color:#FFB81C;
   padding:1em;
 }
 .stats>div:nth-child(12){
+  /* golf */
   background:#041E42;
   color:#866D4B;
   padding:1em;
